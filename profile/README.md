@@ -1,5 +1,3 @@
-![SamSprung Logo](assets/feature_graphic.png)
-
 <p align="center">
   <a href="https://samsprung.github.io/launcher/"><h1 align="center">SamSprung TooUI Manual (Guides)</h1></a>
 </p>
