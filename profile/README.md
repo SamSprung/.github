@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.eightbit.samsprung"><img src="assets/google-play-badge.png" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.eightbit.samsprung"><img src="../assets/google-play-badge.png" /></a>
 </p>
 
 <p align="center">
@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.eightbit.samsprung.ime"><img src="assets/google-play-badge.png" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.eightbit.samsprung.ime"><img src="../assets/google-play-badge.png" /></a>
 </p>
